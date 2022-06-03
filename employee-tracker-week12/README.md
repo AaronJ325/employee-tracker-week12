@@ -1,0 +1,1 @@
+This week's task was to create an application that can manage an employee database using node, inquirer, and mysql.
